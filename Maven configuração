@@ -1,0 +1,4 @@
+Baixe o Maven no site e coloque o caminho nas variáveis de ambiente
+Depois disso crie um pasta e depois e abra ela no CMD e digite o comando:
+mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId-quick-start-maven -Darchetype-maven-archetype-quickstart -DinterativeMode=false
+Isso irá iniciar um projeto Maven...
